@@ -3,6 +3,7 @@
 A subroutine written in AVR assembly for the ATmega328p.
 
 Given any 16 bit value, calculate the next permutation in the sequence outline by the following patterns:
+
 1 bit set
 - 0000 0000 0000 0001
 - 0000 0000 0000 0010
